@@ -1,6 +1,17 @@
 
 Hi I am Himanshu 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=himanshu-r&theme=onedark)](https://github.com/himanshu-r/himanshu-r)
+<div>
+ 
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-r&show_icons=true&locale=en&layout=compact&theme=radical" alt="himanshu-r" /></p>
+
+ 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-r&theme=radical" alt="himanshu-r" /></p>
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnilshinde123&show_icons=true&count_private=true&theme=radical)
+
+</div>
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=himanshu-r&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
