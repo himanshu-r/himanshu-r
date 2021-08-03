@@ -9,7 +9,7 @@ Hi I am Himanshu
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-r&theme=radical" alt="himanshu-r" /></p>
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnilshinde123&show_icons=true&count_private=true&theme=radical)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu-r&show_icons=true&count_private=true&theme=radical)
 
 </div>
 
